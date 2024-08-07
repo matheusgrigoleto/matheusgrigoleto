@@ -1,7 +1,7 @@
 ### Hi! I'm Matheus Grigoleto
 
--🏭 I have knowledge with networks/erp/support<br>
--📚 Interning Inovation-Automated Test<br>
+-🏭 I have knowledge with web programming<br>
+-📚 learning about python<br>
 -🎓 Graduating Computer Science<br>
 -📈 My goal is to grow in programming<br>
 
